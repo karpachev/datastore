@@ -1,6 +1,6 @@
 {
   "name": "datastore",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Object adapter to the Google Datastore",
   "main": "lib/datastore.js",
   "scripts": {
