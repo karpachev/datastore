@@ -1,0 +1,12 @@
+{
+  "name": "datastore",
+  "version": "0.0.1",
+  "description": "Object adapter to the Google Datastore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["google", "datastore"],
+  "author": "Vasil Karpachev (v.karpachev@gmail.com)",
+  "license": "ISC"
+}
